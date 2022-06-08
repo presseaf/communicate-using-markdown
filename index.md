@@ -11,3 +11,7 @@
 $ bla bla some code
 Some results
 ```
+
+- [x] some list item
+- [x] done 
+- [ ] not done
